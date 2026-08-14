@@ -5,6 +5,11 @@
   --foreground: #171717;
 }
 
+@theme {
+  --color-input-background: #DCE5ED;
+  --color-header: #C9D6DF;
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
